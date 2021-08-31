@@ -2,4 +2,4 @@
 
 	phpinfo();
 
-	echo 'Creating a new branch is quick & simple';
+	echo 'Creating a new branch is quick and simple';
