@@ -6,4 +6,5 @@
 
 
 	echo 'creating a new Action';
-	echo 'This is new Paper';
+
+	echo 'This is a new Paper';
