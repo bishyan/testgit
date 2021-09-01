@@ -10,3 +10,5 @@
 	echo 'This is a new Paper';
 
 	echo 'add merge';
+
+	echo '.........';
