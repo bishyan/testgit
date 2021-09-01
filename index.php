@@ -8,3 +8,5 @@
 	echo 'creating a new Action';
 
 	echo 'This is a new Paper';
+
+	echo 'add merge';
