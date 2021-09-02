@@ -12,3 +12,5 @@
 	echo 'add merge';
 
 	echo '.........';
+
+    echo '你好运';
