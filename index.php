@@ -18,3 +18,5 @@
 	echo 'add a new Action';
 
 	echo 'Create a new branch';
+
+	echo 'add color.ui';
